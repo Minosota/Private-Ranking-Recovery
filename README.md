@@ -2,5 +2,5 @@
 "Ranking Recovery under Privacy Considerations"
 
 
-https://user-images.githubusercontent.com/64623798/180062841-1d3807ed-448b-42e3-a6b2-d188d0247413.mp4
+https://user-images.githubusercontent.com/64623798/180063063-37b3a07a-9e12-4928-896c-09e8b8ee6b33.mp4
 
